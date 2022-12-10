@@ -1,6 +1,6 @@
 [
   {
-    "تصویر": "https://www.uplooder.net/img/image/81/402a0380a340e234e01ae98560216969/Negar-%DB%B2%DB%B0%DB%B2%DB%B2%DB%B0%DB%B8%DB%B3%DB%B0-%DB%B0%DB%B2%DB%B1%DB%B3%DB%B3%DB%B3.png",
+    "تصویر": "https://s6.uupload.ir/files/negar_۲۰۲۲۰۸۳۰_۰۲۱۳۳۳_zo3u.png",
     "عنوان": "آیسینو",
     "کلیک": "کانال",
     "لینک": "icinoty"
