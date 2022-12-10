@@ -9,6 +9,6 @@
     "تصویر": "https://s6.uupload.ir/files/vjbk_d0wb.png",
     "عنوان": "ممبر گیر روبیکا ",
     "کلیک": "کانال",
-    "لینک": "mamberapp"
+    "لینک": "hjlkiop"
   }
 ]
